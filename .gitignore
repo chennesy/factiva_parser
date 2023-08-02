@@ -2,3 +2,7 @@ rtf/*
 factiva_metadata.csv
 .DS_Store
 .ipynb_checkpoints/
+._.DS_Store
+._fact_rtfs
+fact_rtfs/
+factiva_parse_striprtf.ipynb
